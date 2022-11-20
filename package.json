@@ -1,0 +1,28 @@
+{
+  "name": "my-blog-mean-stack",
+  "version": "1.0.0",
+  "description": "My personal blog website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingwithvijay/My-Blog-Mean-Stack.git"
+  },
+  "keywords": [
+    "mean-stack",
+    "blog",
+    "website"
+  ],
+  "author": "Vijay Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codingwithvijay/My-Blog-Mean-Stack/issues"
+  },
+  "homepage": "https://github.com/codingwithvijay/My-Blog-Mean-Stack#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2"
+  }
+}
